@@ -1,11 +1,13 @@
 # What Was Done:
 - Installed the Arduino support package in Simulink to control an Arduino board.
 - Set up the Arduino by identifying the correct COM port and verifying the connection.
-- Created a Simulink model with blocks to make the LED on pin 13 blink.
-- Configured settings for the Arduino in Simulink, like the hardware type and how often the code runs.
-- Deployed the code to the Arduino in Normal Mode, where it runs independently from the computer.
-  
+- Created a Simulink model with blocks to make the LED on pin 9.
+- Configured settings for the Arduino in Simulink.
+- Connected the LED and a resistor to the Arduino.
+![8ec7a19d-629c-4643-9f5b-6054796662fc](https://github.com/user-attachments/assets/98595237-7ebc-43f2-b046-ec4559f9010d)
+![b3564599-2237-467f-9e04-305cb38c08f8](https://github.com/user-attachments/assets/a1a85cfe-dd69-4e37-8911-5e992905bdab)
+
 # Conclusion:
-This lab taught how to connect Simulink and Arduino to control hardware, like an LED. 
-It showed how to properly install tools, set up the Arduino, and build a simple program to make the LED blink.
+This lab taught me how to connect Simulink and Arduino to controll an LED. 
+It demonstrated how to properly install tools, set up the Arduino, and build a simple program to make the LED blink.
 Running the code in Normal Mode demonstrated how the Arduino can execute tasks on its own without needing a constant connection to the computer.
