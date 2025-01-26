@@ -11,5 +11,3 @@
 # Conclusion:
 This lab taught me how to connect Simulink and Arduino to controll an LED. 
 It demonstrated how to properly install tools, set up the Arduino, and build a simple program to make the LED blink.
-Running the code in ![b3564599-2237-467f-9e04-305cb38c08f8](https://github.com/user-attachments/assets/07ad890c-6e1e-49b6-8b0a-b9216959aa69)
-Normal Mode demonstrated how the Arduino can execute tasks on its own without needing a constant connection to the computer.
